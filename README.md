@@ -1,6 +1,6 @@
 # H4ckScan 
 
-![HackScan Demo](screenshot.jpg)
+![HackScan Demo](screenshot.png)
 
 Script en Bash para automatizar el reconocimiento de red. Lo hice para no tener que estar escribiendo los mismos comandos de Nmap una y otra vez y para tener los logs ordenados por IP.
 
